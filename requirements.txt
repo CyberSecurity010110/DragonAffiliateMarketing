@@ -1,0 +1,7 @@
+langchain 
+selenium
+beautifulsoup4
+schedule
+pandas
+numpy
+requests
